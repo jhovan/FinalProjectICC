@@ -1,0 +1,6 @@
+2
+2016
+medico-5-05:00-09:09-cirugia-cirujano-cirugias-44887799
+deportivo-17-06:00-07:00-partido-contrincante
+academico-17-09:00-13:00-evento combinado-cuaderno-lapiz
+otro-18-18:00-18:00-otro
