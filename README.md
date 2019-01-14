@@ -9,4 +9,4 @@ Las demas entradas del programa se tratan generalmente de enteros y cadenas.
 Los archivos se guardan en el directorio donde desde donde se genera la ejecucion
 (donde vienen guardados los ejemplos de prueba)
 El main se encuentra en la clase "Menu"
-Nombre: Gallardo Valdez JosÈ Jhovan
+Nombre: Gallardo Valdez José Jhovan
